@@ -23,12 +23,12 @@ Markdown
 ### 💻 Tech Stack
 
 <p align="center">
-    * **C/C++**
-* **JavaScript 
-* **Frameworks:** React.js |  
-* **Mobile/Desktop:** Android | HTML | CSS | PyQtcharm
-* **Databases:** MySQL | MongoDB
-* **Tools:** Android Studio | Visual Studio code | Eclipse | Git
+   C/C++
+JavaScript 
+Frameworks:** React.js |  
+Mobile/Desktop:** Android | HTML | CSS | PyQtcharm
+Databases:** MySQL | MongoDB
+Tools:** Android Studio | Visual Studio code | Eclipse | Git
 </p>
 
 ---
