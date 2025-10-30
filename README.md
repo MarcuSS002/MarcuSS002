@@ -38,5 +38,5 @@ Connect with Me
 
 <p>harshgautam333@gmail.com</p>
 
-<p>| **Twitter** 🐦 |https://x.com/HarshGauta75082 |</p>
-<p>| **LinkedIn** |https://www.linkedin.com/in/harsh-gautammm/ |/<p>
+<p>| X | https://x.com/HarshGauta75082 |</p>
+<p>| LinkedIn | https://www.linkedin.com/in/harsh-gautammm/ |/<p>
