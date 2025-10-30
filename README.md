@@ -36,7 +36,7 @@ Tools:** Android Studio | Visual Studio code | Eclipse | Git
 
 Connect with Me
 
-harshgautam333@gmail.com
-| :---: | :---: |
-| **Twitter** 🐦 |https://x.com/HarshGauta75082 |
-| **LinkedIn** |https://www.linkedin.com/in/harsh-gautammm/ |
+<p>harshgautam333@gmail.com</p>
+
+<p>| **Twitter** 🐦 |https://x.com/HarshGauta75082 |</p>
+<p>| **LinkedIn** |https://www.linkedin.com/in/harsh-gautammm/ |/<p>
