@@ -13,14 +13,14 @@ https://c8.alamy.com/comp/2HEE5JD/coding-and-programming-concept-icons-of-comput
 Markdown
 
 <div align="center">
-    <img src="https://c8.alamy.com/comp/2HEE5JD/coding-and-programming-concept-icons-of-computer-code-on-abstract-digital-background-software-and-programming-languages-2HEE5JD.jpg" alt="MarcuSS002" height="200" style="margin-top: 20px;">
+<img src="https://c8.alamy.com/comp/2HEE5JD/coding-and-programming-concept-icons-of-computer-code-on-abstract-digital-background-software-and-programming-languages-2HEE5JD.jpg" alt="MarcuSS002" height="200" style="margin-top: 20px;">
 </div>
 
 <h1 align="center">Hey there! 👋</h1>
 
 ---
 
-### 💻 Tech Stack
+💻 Tech Stack
 
 <p align="center">
    C/C++
@@ -34,8 +34,7 @@ Tools:** Android Studio | Visual Studio code | Eclipse | Git
 ---
 
 
-
-### Connect with Me
+Connect with Me
 
 harshgautam333@gmail.com
 | :---: | :---: |
