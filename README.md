@@ -1,42 +1,62 @@
-Hi there 👋
-
- MarcuSS002
-
-https://github.com/MarcuSS002/uber-video
-https://github.com/MarcuSS002/Appointment-Booking
-https://github.com/MarcuSS002/Voting-List
-
-https://x.com/HarshGauta75082
-
-https://c8.alamy.com/comp/2HEE5JD/coding-and-programming-concept-icons-of-computer-code-on-abstract-digital-background-software-and-programming-languages-2HEE5JD.jpg
-
-Markdown
-
-<div align="center">
-<img src="https://c8.alamy.com/comp/2HEE5JD/coding-and-programming-concept-icons-of-computer-code-on-abstract-digital-background-software-and-programming-languages-2HEE5JD.jpg" alt="MarcuSS002" height="200" style="margin-top: 20px;">
-</div>
-
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hi 👋, I'm Harsh Gautam</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | SDE Aspirant</h3>
 
 ---
 
-💻 Tech Stack
+### 👨‍💻 About Me
+- 🚀 Full Stack Developer (MERN)
+- 💡 Strong in **DSA & Core CS**
+- 🌱 Currently improving **System Design & Backend**
+- 🎯 Goal: High-impact SDE role
 
+---
+
+### 🛠️ Tech Stack
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js
+- REST APIs
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+### 📈 What I Do
+- Build scalable full stack projects  
+- Write clean, maintainable code  
+- Solve DSA problems consistently  
+
+---
+
+### 📂 Featured Projects
+- 🔹 **Doctor Appointment Booking System**
+- 🔹 Full Stack Web Applications
+- 🔹 REST API Projects
+
+_(More projects coming soon 🚀)_
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-   C/C++
-JavaScript 
-Frameworks:** React.js |  
-Mobile/Desktop:** Android | HTML | CSS | PyQtcharm
-Databases:** MySQL | MongoDB
-Tools:** Android Studio | Visual Studio code | Eclipse | Git
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshGautam&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
+### 🤝 Connect With Me
+- 💼 LinkedIn: _add your link_
+- 📧 Email: _add your email_
 
-Connect with Me
+---
 
-<p>harshgautam333@gmail.com</p>
-
-<p>| X | https://x.com/HarshGauta75082 |</p>
-<p>| LinkedIn | https://www.linkedin.com/in/harsh-gautammm/ |/<p>
+⭐ *If you like my work, consider starring my repositories!*
