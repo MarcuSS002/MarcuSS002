@@ -14,9 +14,9 @@ Full Stack Engineer (MERN) · Backend-Focused · SDE 2025
 
 ---
 ### 📈 What I Do
-Build scalable full stack projects
-Write clean, maintainable code
-Solve DSA problems consistently
+- Build scalable full stack projects
+- Write clean, maintainable code
+- Solve DSA problems consistently
 
 ---
 ### 🙋🏻‍♂️ About Me
