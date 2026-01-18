@@ -13,7 +13,12 @@ Full Stack Engineer (MERN) · Backend-Focused · SDE 2025
 </p>
 
 ---
+### 📈 What I Do
+Build scalable full stack projects
+Write clean, maintainable code
+Solve DSA problems consistently
 
+---
 ### 🙋🏻‍♂️ About Me
 - Backend-first full stack developer  
 - Build REST APIs, real-time systems (WebSockets)  
@@ -21,20 +26,14 @@ Full Stack Engineer (MERN) · Backend-Focused · SDE 2025
 - CSE ’25 | SDE aspirant  
 
 ---
-
-
-
----
-
 ### 🗂️ Projects
 - **Uber Clone** — real-time trips, maps, fare logic  
 - **Doctor Appointment System** — role-based MERN app
 - **Voting List** - Backend
 - **Twitter Clone** - Full Stack Developer
-
+  
 ---
 
----
 
 ⭐ Clean code. Real systems. Consistent growth.
 
