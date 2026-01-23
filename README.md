@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ;) About Me:
 -Backend-focused Full Stack Engineer (MERN), CSE ’25.  <br>-I build scalable REST APIs, real-time systems using WebSockets, and role-based auth with JWT.  <br>-Experienced with MongoDB & PostgreSQL, testing APIs using Jest, and deploying on Render/Vercel.  <br>-Currently preparing for SDE roles with a strong focus on DSA and system design basics.
 
 
